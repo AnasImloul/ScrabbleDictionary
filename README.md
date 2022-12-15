@@ -22,6 +22,8 @@ package Dictionary{
             }
             
             public class Pattern;
+            public class Matcher;
+            public interface RegexMatcher;
              
         }
         

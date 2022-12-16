@@ -26,7 +26,10 @@ package Dictionary{
             public interface RegexMatcher;
              
         }
-        
     }
+    
+    public class WordDictionary;
+    public interface Dictionary;
+    
 }
 </pre>
